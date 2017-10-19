@@ -3,8 +3,7 @@ import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 import { CommonModule } from '@angular/common';
 
-import { PaginationModule } from 'ng2-bootstrap/ng2-bootstrap';
-import { TabsModule } from 'ng2-bootstrap/ng2-bootstrap';
+import { PaginationModule, TabsModule } from 'ngx-bootstrap';
 
 import { Ng2TableModule } from '../components/ng-table-module';
 
